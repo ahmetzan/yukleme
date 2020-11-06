@@ -1,0 +1,2 @@
+# yukleme
+deneme
